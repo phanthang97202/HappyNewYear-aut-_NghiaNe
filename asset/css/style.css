@@ -45,7 +45,7 @@ body{
     background: #aaa;
 }
 .block::before{
-    content: '1';
+    content: '2';
 
     
     transform: translateZ(-60px) translateY(-50%) rotateX(90deg);
